@@ -437,7 +437,7 @@ def generate_ai_insights(labs: List[Dict]) -> str:
 
     try:
         completion = openai_client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-4.1-mini",
             messages=messages,
             temperature=0.7,
             max_tokens=1000,
