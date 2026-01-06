@@ -1,0 +1,4 @@
+backend/*.json
+backend/.env
+frontend/node_modules/
+backend/venv/

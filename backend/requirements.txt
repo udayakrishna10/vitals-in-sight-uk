@@ -1,0 +1,14 @@
+fastapi==0.124.0
+uvicorn==0.38.0
+pdfplumber==0.11.8
+pytesseract==0.3.13
+pillow==11.3.0
+pandas==2.3.3
+python-multipart==0.0.20
+pydantic==2.12.5
+pydantic-settings==2.11.0
+python-dotenv==1.2.1
+google-cloud-storage
+google-cloud-bigquery
+google-auth
+openai
