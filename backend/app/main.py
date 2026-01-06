@@ -77,7 +77,7 @@ def load_test_mappings() -> Dict:
     try:
         query = f"""
         SELECT 
-            raw_test_name,
+            raw_name,
             canonical_code,
             canonical_display_name,
             category,
